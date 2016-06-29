@@ -1,6 +1,6 @@
 {
   "name": "mongo-aggregator",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Creates aggregation object for get documents with relations from mongo db.",
   "main": "index.js",
   "scripts": {
