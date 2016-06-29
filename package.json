@@ -1,6 +1,6 @@
 {
   "name": "mongo-aggregator",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Creates aggregation object for get documents with relations from mongo db.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   ],
   "author": "RJA",
   "license": "ISC",
-  "dependencies": {
-    "chai": "latest"
+  "devDependencies": {
+    "chai": "^3.5.0"
   }
 }
